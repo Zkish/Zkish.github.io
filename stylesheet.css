@@ -1,8 +1,5 @@
 body {
-    background: linear-gradient(to bottom, black, white);
-    height: 100vh;
-    margin: 0;
-    display: flex;
+    background: linear-gradient(to bottom, black, green);
     justify-content: center;
     align-items: center;
   }
